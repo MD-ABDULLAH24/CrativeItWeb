@@ -89,7 +89,7 @@ function PopularCourse() {
             return (
               <div
                 key={idx}
-                className="bg-white rounded-2xl shadow-md overflow-hidden w-full max-w-[380px] sm:max-w-[340px] md:max-w-[400px] border border-gray-200 flex flex-col h-[320px] sm:h-[220px] md:h-[380px]"
+                className="bg-white rounded-2xl shadow-md overflow-hidden w-full max-w-[380px] sm:max-w-[340px] md:max-w-[400px] border border-gray-200 flex flex-col h-[420px] sm:h-[220px] md:h-[380px]"
               >
                 <img
                   src={course.image}
@@ -114,11 +114,11 @@ function PopularCourse() {
                       {course.students} Student
                     </span>
                   </div>
-                  <div className="flex justify-between items-center mt-auto">
-                    <span className="font-bold text-[14px] sm:text-[15px]">
+                  <div className="md:flex  justify-between items-center mt-auto">
+                    <span className="font-bold  text-[14px] sm:text-[15px]">
                       Course Fee {course.fee}
                     </span>
-                    <button className="border border-red-600 text-red-600 bg-white rounded-md px-3 py-1 font-bold cursor-pointer hover:bg-[#ff7e31] hover:text-white transition text-xs sm:text-sm">
+                    <button className="border mt-2 md:mt-0 border-red-600 text-red-600 bg-white rounded-md px-3 py-1 font-bold cursor-pointer hover:bg-[#ff7e31] hover:text-white transition text-xs sm:text-sm">
                       Click for discount
                     </button>
                   </div>
