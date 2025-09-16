@@ -63,7 +63,7 @@ const Navbar = () => {
         isMenuScroll ? "bg-white shadow-md" : "bg-transparent text-white"
       }`}
     >
-      <nav className="max-w-screen-xl container mx-auto flex justify-between items-center py-1 md:py-6 px-4">
+      <nav className="max-w-screen-xl container mx-auto flex justify-between items-center py-6 md:py-6 px-4">
         {/* logo  */}
         <Link to="/" className=" hidden md:block">
           <img src={logo} alt="Logo" />
