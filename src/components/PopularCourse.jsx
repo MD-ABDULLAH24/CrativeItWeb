@@ -114,7 +114,7 @@ function PopularCourse() {
                       {course.students} Student
                     </span>
                   </div>
-                  <div className="md:flex  justify-between items-center mt-auto">
+                  <div className="md:flex  justify-between items-center mt-5">
                     <span className="font-bold  text-[14px] sm:text-[15px]">
                       Course Fee {course.fee}
                     </span>
