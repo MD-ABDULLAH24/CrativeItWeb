@@ -1,6 +1,5 @@
 import React from "react";
 import bkash from "../assets/Payment/bkash.png";
-import nagad from "../assets/Payment/nagad_marchant.png"
 import rocket from "../assets/Payment/rocket.png"
 import sslcommerz from "../assets/Payment/sslcommerz.jpg"
 import logo from "../assets/logo_2.png"
@@ -12,11 +11,7 @@ const merchants = [
     name: "bKash",
     numbers: ["01990779766", "01309014614"],
   },
-  {
-    logo: nagad,
-    name: "Nagad",
-    numbers: ["01309014614"],
-  },
+  
   {
     logo: rocket,
     name: "Rocket",
