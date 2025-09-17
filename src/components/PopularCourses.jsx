@@ -7,7 +7,6 @@ import "swiper/css";
 // Dummy images, replace with your assets
 import backend from "../assets/popular/backend.jpg";
 import dm from "../assets/popular/dm.jpg";
-import affiliate from "../assets/popular/affiliate.jpg";
 import python from "../assets/popular/python.jpg";
 import mern from "../assets/popular/mern.jpg";
 import machineLearning from "../assets/popular/machineLearning.jpg";
