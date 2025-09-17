@@ -1,8 +1,8 @@
 import React from "react";
 import bkash from "../assets/Payment/bkash.png";
 import nagad from "../assets/Payment/nagad_marchant.png"
-import rocket from "../assets/Payment/rocket.png";
-import sslcommerz from "../assets/Payment/sslcommerz.jpg";
+import rocket from "../assets/Payment/rocket.png"
+import sslcommerz from "../assets/Payment/sslcommerz.jpg"
 import logo from "../assets/logo_2.png"
 import { FaFacebookF, FaLinkedinIn, FaInstagram, FaYoutube } from "react-icons/fa";
 
