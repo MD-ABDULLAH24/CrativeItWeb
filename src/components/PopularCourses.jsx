@@ -10,7 +10,7 @@ import dm from "../assets/popular/dm.jpg";
 import python from "../assets/popular/python.jpg";
 import mern from "../assets/popular/mern.jpg";
 import machineLearning from "../assets/popular/machineLearning.jpg";
-import frontend from "../assets/popular/frontEnd.jpg";
+import frontend from "../assets/popular/frontEnd.jpg"
 import diploma from "../assets/popular/diploma.jpg";
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 
